@@ -1,0 +1,201 @@
+{
+  "categorias": [
+    {
+      "titulo": "Filmes",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "black",
+      "link_extra": {
+        "text": "Alguns dos meus filmes favoritos",
+        "url": "https://www.youtube.com/playlist?list=PL9lAN4Bb1_G3Y41_QzyCoI2fLsSwKJqOL"
+      },
+      "videos": [
+        {
+          "titulo": "Bohemian Rhapsody",
+          "url": "https://www.youtube.com/watch?v=6S9c5nnDd_s"
+        },
+        {
+          "titulo": "Forrest Gump - O contador de Histórias",
+          "url": "https://www.youtube.com/watch?v=bwVGdGOOKHY"
+        },
+        {
+          "titulo": "Green Book: O Guia",
+          "url": "https://www.youtube.com/watch?v=SqH2BrFwIYo"
+        },
+        {
+          "titulo": "Vingadores: Ultimato",
+          "url": "https://www.youtube.com/watch?v=azgB1ju9ymw"
+        },
+        {
+          "titulo": "Jojo",
+          "url": "https://www.youtube.com/watch?v=5vcc1h_ou7I"
+        },
+        {
+          "titulo": "Ford vs Ferrari",
+          "url": "https://www.youtube.com/watch?v=p-gb_k_34G0"
+        },
+        {
+          "titulo": "Baby Driver",
+          "url": "https://www.youtube.com/watch?v=D5436VAGssI"
+        },
+        {
+          "titulo": "Nasce uma Estrela",
+          "url": "https://www.youtube.com/watch?v=iPQZtrV9eGg"
+        }        
+      ]
+    },
+    {
+      "titulo": "Séries",
+      "cor": "black",
+      "link_extra": {
+        "text": "Algumas das minhas séries favoritas",
+        "url": "https://netflix.com"
+      },
+      "videos": [
+        {
+          "titulo": "Como vender drogas online (rápido)",
+          "url": "https://www.youtube.com/watch?v=jwiCmA5vX-A"
+        },
+        {
+          "titulo": "Stranger Things",
+          "url": "https://www.youtube.com/watch?v=b9EkMc79ZSU"
+        },
+        {
+          "titulo": "Annie With An E",
+          "url": "https://www.youtube.com/watch?v=rFzFgopc27Y"
+        },
+        {
+          "titulo": "Black Mirror",
+          "url": "https://www.youtube.com/watch?v=M8qG0vS2zWM"
+        }, 
+        {
+          "titulo": "Daredevil",
+          "url": "https://www.youtube.com/watch?v=n83s6NO1NE0"
+        }
+      ]
+    },
+    {
+      "titulo": "Youtube",
+      "cor": "black",
+      "link_extra": {
+        "text": "Alguns dos meus canais favoritos",
+        "url": "https://www.youtube.com"
+      },
+      "videos": [
+        {
+          "titulo": "Gaveta",
+          "url": "https://www.youtube.com/watch?v=ltwg56u0PLc"
+        },
+        {
+          "titulo": "viniccius13",
+          "url": "https://www.youtube.com/watch?v=pyRy78dFGkE"
+        },
+        {
+          "titulo": "Filipe Deschamps",
+          "url": "https://www.youtube.com/watch?v=pbVwH8o837A"
+        },
+        {
+          "titulo": "Davi",
+          "url": "https://www.youtube.com/watch?v=E9S1IkDrGQU"
+        },
+        {
+          "titulo": "Flow Podcast",
+          "url": "https://www.youtube.com/watch?v=tHbFukPmM9s"
+        },
+        {
+          "titulo": "Travel and Share",
+          "url": "https://www.youtube.com/watch?v=FnzPlfiIkoQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Jogos",
+      "cor": "black",
+      "link_extra": {
+        "text": "Um pouco do que eu jogo",
+        "url": "https://steamcommunity.com/profiles/76561198174228542/"
+      },
+      "videos": [
+        {
+          "titulo": "League of Legends",
+          "url": "https://www.youtube.com/watch?v=aR-KAldshAE"
+        },
+        {
+          "titulo": "Valorant",
+          "url": "https://www.youtube.com/watch?v=e_E9W2vsRbQ"
+        },
+        {
+          "titulo": "PES2020",
+          "url": "https://www.youtube.com/watch?v=_89i5H1zAeU"
+        },
+        {
+          "titulo": "GTA V",
+          "url": "https://www.youtube.com/watch?v=QkkoHAzjnUs"
+        }
+      ]
+    },
+    {
+      "titulo": "Músicas",
+      "cor": "black",
+      "link_extra": {
+        "text": "Um pouco do que eu escuto",
+        "url": "https://open.spotify.com/playlist/5tFpOT3A1nTTKE1eOyEcxn?si=Gj1_DefoTOCuE54P4WT8lg"
+      },
+      "videos": [
+        {
+          "titulo": "Sunflower",
+          "url": "https://www.youtube.com/watch?v=ApXoWvfEYVU"
+        },
+        {
+          "titulo": "Khalid - Self",
+          "url": "https://www.youtube.com/watch?v=s2Gw6r6HooA"
+        },
+        {
+          "titulo": "Lagum - Andar Sozinho ft. Jão",
+          "url": "https://www.youtube.com/watch?v=Smda3Fkcoak"
+        },
+        {
+          "titulo": "Zé Neto e Cristiano = Barzinho Aleatório",
+          "url": "https://www.youtube.com/watch?v=hjc1dCyodG4"
+        },
+        {
+          "titulo": "ANAVITÓRIA - Porque Eu Te Amo",
+          "url": "https://www.youtube.com/watch?v=rEnD32kbw6I"
+        },
+        {
+          "titulo": "a-ha - Take On Me",
+          "url": "https://www.youtube.com/watch?v=djV11Xbc914"
+        }
+      ]
+    },
+    {
+      "titulo": "Videos Aleatórios",
+      "cor": "black",
+      "link_extra": {
+        "text": "Alguns videos que eu assisti e gostei",
+        "url": "https://netflix.com"
+      },
+      "videos": [
+        {
+          "titulo": "Liverpool vs Barcelona",
+          "url": "https://www.youtube.com/watch?v=Ik-DhHJM8eo"
+        },
+        {
+          "titulo": "Isolation",
+          "url": "https://www.youtube.com/watch?v=iqKdEhx-dD4"
+        },
+        {
+          "titulo": "Grenal",
+          "url": "https://www.youtube.com/watch?v=iEYVDvV7mKE"
+        },
+        {
+          "titulo": "A Mente de Barney",
+          "url": "https://www.youtube.com/watch?v=co_K_WwRD2k"
+        },
+        {
+          "titulo": "Cadê a chave?",
+          "url": "https://www.youtube.com/watch?v=KfxQfmDKKuI"
+        }
+      ]
+    }
+  ]
+}
