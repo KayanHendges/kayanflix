@@ -12,7 +12,7 @@ function Home() {
       <BannerMain 
       url={dadosInicias.categorias[0].videos[0].url}
       videoTitle={dadosInicias.categorias[0].videos[0].titulo} 
-      videoDescription={'Freddie Mercury, Brian May, Roger Taylor e John Deacon formam a banda de rock Queen em 1970. Quando o estilo de vida agitado de Mercury começa a sair de controle, o grupo precisa encontrar uma forma de lidar com o sucesso e os excessos de seu líder.'}
+      videoDescription={'Clarence é um espírito candidato a anjo que recebe a missão de ajudar um homem muito valoroso, porém desiludido. George Bailey está à beira do suicídio quando é salvo por Clarence, que lhe mostra como ele é importante na vida de muitas pessoas.'}
       />
       <Carousel
       ignoreFirstVideo
